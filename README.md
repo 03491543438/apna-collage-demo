@@ -1,4 +1,5 @@
-# apna-collage-demo
+cd # apna-collage-demo
 This is first my git repostiory
+
 <br>
-Author Omer Ahmad
+Author Omer (apna collage)
